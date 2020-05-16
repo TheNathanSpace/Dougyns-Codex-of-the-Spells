@@ -145,6 +145,8 @@ ___
 
 You are immune to all damage until the spell ends.
 
+\columnbreak
+
 #### Mass Heal
 *9th-level evocation*
 ___
