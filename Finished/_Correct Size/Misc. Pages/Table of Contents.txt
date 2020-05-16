@@ -1,0 +1,155 @@
+<style>tab { padding-left:1em; }</style>
+
+<style>
+  .phb#p1:after{ display:none; } 
+</style>
+
+<style>
+  .phb{
+    width : 209.55mm;
+    height : 273.05mm;
+  }
+</style>
+
+<style>
+    .phb:after { 
+        content: "";
+    }
+</style>
+<style>
+/* Footer */
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : 0px;
+    left             : 0px;
+    height           : 55px;
+    width            : 100%;
+    z-index          : -10;
+ //   background-image : url('https://www.gmbinder.com/images/ZuKB08N.png');
+    background-size  : cover;
+    }
+
+.phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : 0px;
+    left             : 0px;
+    height           : 55px;
+    width            : 100%;
+    z-index          : -10;
+//    background-image : url('https://www.gmbinder.com/images/ZuKB08N.png');
+  //  background-size  : cover;
+//    -webkit-transform: scaleX(-1);
+ //   transform: scaleX(-1);
+
+    } 
+</style>
+
+<style>
+  .toc a {
+    color: inherit !important;	/*toc specifically wants black text. This resets the headers*/
+  }
+
+  .toc li span:nth-child(2){	/*Allow dot leaders to fill remaining space but not overlap*/
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+
+  .toc li span:nth-child(2):after{
+    font-family		: BookSanity;	/*Remove any header styles from dot leaders*/
+    font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    content:
+      " ........................................"
+      "........................................."
+      "........................................."; 
+  }
+  
+  .toc li span:first-child{
+    float: right;
+    font-family		: BookSanity;	/*Remove any header styles from page numbers*/
+    font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    margin-left		: 1px;	/*Leaves a small space between page numbers and dot leaders*/
+  }
+  
+/*Special cases for headings*/    
+  .toc li h3 span:nth-child(2):after{
+  	content: " ";						/*Remove dot leaders on h3*/
+  }
+  
+  .toc li h3 {
+    margin-bottom: 8px !important;		/*Special spacing for h3*/
+    margin-top: 15px !important;
+    line-height: initial !important;	/*For some reason Multi-line h3 line spacing changed*/
+  }
+  
+  .toc li h3 span:first-child{
+  	line-height: 1.8em !important;  	/*Line page numbers up with Multi-line h3 better*/
+  }
+  
+  .toc ul ul {
+  	margin-left: 15px !important;		/*Original lists intented too much*/
+  }
+  
+  .toc>ul>li {
+    margin-bottom: initial !important;	/*margin for list items needs to be removed or 0*/
+  }
+</style>
+
+<div class='wide' style="text-align: center">
+# Contents
+</div>
+
+<div class='toc'>
+- ### <span>4</span><span>Spell Lists</span>
+ - #### <span>6</span><span>**Artificer**</span>
+ - #### <span>7</span><span>**Bard**</span>
+ - #### <span>8</span><span>**Cleric**</span>
+ - #### <span>9</span><span>**Druid**</span>
+ - #### <span>10</span><span>**Paladin**</span>
+ - #### <span>11</span><span>**Ranger**</span>
+ - #### <span>12</span><span>**Sorcerer**</span>
+ - #### <span>13</span><span>**Warlock**</span>
+ - #### <span>14</span><span>**Wizard**</span>
+
+- ### <span>16</span><span>Spell Descriptions</span>
+ - #### <span>18</span><span>**Cantrips**</span>
+ - #### <span>28</span><span>**First Level**</span>
+ - #### <span>42</span><span>**Second Level**</span>
+ - #### <span>56</span><span>**Third Level**</span>
+ - #### <span>70</span><span>**Fourth Level**</span>
+ - #### <span>84</span><span>**Fifth Level**</span>
+ - #### <span>102</span><span>**Sixth Level**</span>
+ - #### <span>114</span><span>**Seventh Level**</span>
+ - #### <span>124</span><span>**Eighth Level**</span>
+ - #### <span>132</span><span>**Ninth Level**</span>
+</div>
+
+```
+```
+<br>
+> ## Acknowledgements
+> This was inspired by the spell compendium made by Ixon the Magician, and he provided several invaluable resources, including the spell lists.<br><br>
+> Thanks to Die Another Day Mercenary Company for their guidance in the aesthetics and design of this compendium.<br><br>
+> This compendium was made using Homebrewery, GM Binder, GIMP, Adobe Photoshop, and PDFsam.
+> ## Art Credits
+> **Nissa, Sage Animist:** Wesley Burt<br><br>
+> **The Great Henge:** Adam Paquette<br><br>
+> **Negate:** Magali Villeneuve<br><br>
+> **Jace, Unraveler of Secrets:** Tyler Jacobson<br><br>
+> **Staircase:** William O'Connor <br> <br>
+> **Burning Hands:** John Stanko <br><br>
+> **Fireball:** Kieran Yanner<br><br>
+> **Storm Sphere:** Scott Murphy<br><br>
+> **Insect Plague:** Claudio Pozas<br><br>
+> **Rary the Traitor (Fire Storm):** Ben Wootten<br><br>
+> **Underdark (Meteor Storm):** Sam Burley<br><br>
+> **Time Walk:** Chris Rahn<br><br>
+> The above artwork is property of Wizards of the Coast, taken from its website or the artist's website. <br><br>
+> All other artwork (I won't list every piece), unless stated otherwise, is property of Wizards of the Coast, used in Dungeons and Dragons or Magic the Gathering.
