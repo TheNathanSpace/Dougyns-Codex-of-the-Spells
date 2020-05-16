@@ -1,0 +1,234 @@
+___
+> ## Tiny Servant
+>*Tiny construct, unaligned
+*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 10 (4d4)
+> - **Speed** 30 ft., climb 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|4 (-3)|16 (+3)|10 (+0)|2 (-4)|10 (+0)|1 (-5)|
+>___
+> - **Damage Immunities** poison, psychic
+> - **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+> - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
+> - **Languages** —
+> ___
+> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage.
+
+
+##### Animated Object Statistics
+| Size | HP | AC | Attack | Str | Dex | 
+|:----:|:---: | :---: | :---: | :---: |
+| Tiny  | 20 | 18 | +8 to hit, 1d4+4 damage | 4 | 18
+| Small | 25 | 16 | +6 to hit, 1d8+2 damage | 6 | 14
+| Medium | 40 | 13 | +5 to hit, 2d6+1 damage | 10 | 12
+| Large | 50 | 10 | +6 to hit, 2d10+2 damage | 14 | 10
+| Huge | 80 | 10 | +8 to hit, 2d12+2 damage | 18 | 6
+
+
+| d8 | Damage Type |
+|:----:|:-|
+| 1  | Acid |
+| 2  | Cold |
+| 3 | Fire |
+| 4 | Force |
+| 5 | Lightning |
+| 6 | Poison |
+| 7 | Psychic |
+| 8 | Thunder |
+
+
+| d6 | Demons Summoned |
+|:----:|:-:|
+| 1-2  | Two demons of challenge rating 1 or lower |
+| 3-4  | Four demons of challenge rating 1/2 or lower |
+| 5-6 | Eight demons of challenge rating 1/4 or lower |
+
+
+| Material | Duration |
+|:----|:-|
+| Vegetable matter  | 1 day |
+| Stone or crystal  | 12 hours |
+| Precious metals | 1 hour |
+| Gems | 10 minutes |
+| Adamantine or mithral | 1 minute |
+
+
+#### Reincarnate
+*5th-level transmutation*
+___
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V S M (Rare oils and unguents worth at least 1,000 gp, which the spell consumes)
+- **Duration:** Instantaneous
+
+You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.
+
+The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The DM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.
+
+The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
+
+<br/>
+
+|d100	| Race |
+| :---: | :------ |
+|01 **-** 03  | Aarakocra|
+|04 **-** 05  | Aasimar|
+|06 **-** 08  | Dragonborn|
+|09 **-** 20  | Dwarf|
+|21 **-** 34  | Elf|
+|35 **-** 37  | Firbolg|
+|38 **-** 39  | Genasi|
+|40 **-** 41  | Gith|
+|42 **-** 44  | Goliath|
+|45 **-** 51  | Gnome|
+|52 **-** 62  | Halfling|
+|63 **-** 65  | Half Elf|
+|66 **-** 68  | Half Orc|
+|69 **-** 82  | Human|
+|83 **-** 84  | Kenku|
+|85 **-** 86  | Lizardfolk|
+|87 **-** 89  | Monstrous|
+|90 **-** 92  | Tabaxi|
+|93 **-** 95  | Tiefling|
+|96 **-** 97  | Tortle|
+|98 **-** 100 | Triton|
+
+> ##### Subraces
+> If your result on the table above is Aasimar, Dwarf, Elf, Genasi, Gith, Gnome, Halfling, Monstrous, or Teifling, roll on the corresponding subrace table.
+
+<br/>
+##### Aasimar
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 8  | Protector|
+|9 **-** 15  | Scourge |
+|16 **-** 20  | Fallen |
+
+##### Dwarf
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 8  | Hill|
+|9 **-** 15  | Mountain |
+|16 **-** 20  | Duegar |
+
+##### Elf
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 3  | Dark|
+|4 **-** 5  | Eladrin |
+|6 **-** 10 | High |
+|11 **-** 13 | Sea |
+|14 **-** 15 | Shadar-Kai |
+|16 **-** 20 | Wood |
+
+##### Genasi
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 5  | Air |
+|6 **-** 10  | Earth |
+|11 **-** 15 | Fire |
+|16 **-** 20 | Water |
+
+##### Gith
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 10  | Githyanki|
+|11 **-** 20  | Githzerai |
+
+##### Gnome
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 4  | Deep|
+|5 **-** 11  | Forest |
+|12 **-** 20  | Rock |
+
+##### Halfling
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 9  | Lightfoot|
+|10 **-** 18  | Stout|
+|19 **-** 20  | Ghostwise|
+
+##### Monstrous
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 3  | Bugbear|
+|4 **-** 7  | Goblin |
+|8 **-** 10 | Hobgoblin |
+|11 **-** 14 | Kobold |
+|15 **-** 17 | Orc |
+|18 **-** 20 | Yuan-Ti |
+
+##### Tiefling
+| d20	| Subrace |
+| :---: | :------ |
+|1 **-** 4  | Asmodeus |
+|5 **-** 6  | Baalzebul |
+|7 **-** 8 | Dispater |
+|9 **-** 10 | Fierna |
+|11 **-** 12 | Glasya |
+|13 **-** 14 | Levistus |
+|15 **-** 16 | Mammon |
+|17 **-** 18 | Mephistopheles |
+|19 **-** 20 | Zariel |
+
+
+| Knowledge | Save Modifier |
+|:---|:-:|
+| Secondhand (you have heard of the target)  | +5 |
+| Firsthand (you have met the target)  | +0 |
+| Familiar (you know the target well) | -5 |
+
+| Connection | Save Modifier |
+|:---|:-:|
+| Likeness or picture  | -2 |
+| Possession or garment  | -4 |
+| Body part, lock of hair, bit of nail, or the like | -10 |
+
+
+| Familiarity | Mishap | Similar Area | Off Target | On Target |
+|:---|:-:| :-: | :-: | :-:|
+| Permanent circle  | — | — | — | 01-100 |
+| Associated object  | — | — | — | 01-100 |
+| Very familiar  | 01-05 | 06-13 | 14-24 | 25-100 |
+| Seen casually  | 01-33 | 34-43 | 44-53 | 54-100 |
+| Viewed once  | 01-43 | 44-53 | 54-73 | 74-100 |
+| Description  | 01-43 | 44-53 | 54-73 | 74-100 |
+| False destination  | 01-50 | 51-100 | — | — |
+
+
+##### Precipitation
+| Stage | Condition |
+|:----:|:-------------|
+| 1  | Clear |
+| 2  | Light clouds |
+| 3 | Overcast or ground fog |
+| 4 | Rain, hail, or snow |
+| 5 | Torrential rain, driving hail, or blizzard |
+
+<div style='column-count:2'>
+##### Temperature
+| Stage | Condition |
+|:----:|:-------------|
+| 1  | Unbearable heat |
+| 2  | Hot |
+| 3 | Warm |
+| 4 | Cool |
+| 5 | Cold |
+| 6 | Arctic cold |
+```
+  ```
+##### Wind
+| Stage | Condition |
+|:----:|:-------------|
+| 1  | Calm |
+| 2  | Moderate wind |
+| 3 | Strong wind |
+| 4 | Gale |
+| 5 | Storm |
+
+</div>

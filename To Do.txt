@@ -1,0 +1,22 @@
+The following spells in "Output_JSON.json" need to be updated with the formatting fixes from "Fixes.txt". They contain tables or stat blocks that aren't properly formatted.
+ - Tiny Servant
+ - Animate Objects
+ - Chaos Bolt
+ - Summon Lesser Demons
+ - Creation
+ - Reincarnate
+ - Scrying
+ - Teleport
+ - Control Weather
+ 
+PAGE NUMBERS (odd are right)
+1: Inner Cover
+2: Tree artwork
+3: Table of Contents
+4-5: Spell Lists title and artwork
+6-15: Spell lists
+16-17: Jace artwork
+18: Cantrips title page
+19: Cantrips content
+
+Last pages: Time walk
