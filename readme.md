@@ -8,3 +8,4 @@ There are two verions of the PDF:
 
 Things to fix:
  - Mass Heal (push on to next column, then cut out that page from finished PDF and reform it)
+ - Maybe change back cover to have Player's Handbook and Xanathar's Guide to Everything instead of the three core books
