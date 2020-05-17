@@ -1,4 +1,4 @@
-There are two verions of the PDF:
+There are two versions of the PDF:
  - The full, uncompressed version. That's about 1.5 GB.
  - A compressed, optimized version. That's about 350 MB. This one is small enough to upload to Lulu.
  
