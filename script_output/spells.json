@@ -287,7 +287,6 @@
             ],
             "tags": [
                 "sorcerer",
-                "warlock",
                 "wizard",
                 "cantrip",
                 "evocation"
@@ -399,6 +398,7 @@
                 "TCE.107"
             ],
             "tags": [
+                "artificer",
                 "sorcerer",
                 "warlock",
                 "wizard",
@@ -835,6 +835,7 @@
                 "TCE.115"
             ],
             "tags": [
+                "artificer",
                 "sorcerer",
                 "warlock",
                 "wizard",

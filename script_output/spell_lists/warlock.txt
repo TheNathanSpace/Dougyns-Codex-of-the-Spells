@@ -13,7 +13,6 @@
 - Eldritch Blast
 - Friends
 - Frostbite
-- Green-Flame Blade
 - Infestation
 - Lightning Lure
 - Mage Hand

@@ -13,6 +13,7 @@
 - Frostbite
 - Guidance
 - Light
+- Lightning Lure
 - Mage Hand
 - Magic Stone
 - Mending
@@ -23,6 +24,7 @@
 - Resistance
 - Shocking Grasp
 - Spare the Dying
+- Sword Burst
 - Thorn Whip
 - Thunderclap
 
