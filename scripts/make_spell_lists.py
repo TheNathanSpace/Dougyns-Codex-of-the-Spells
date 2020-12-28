@@ -9,7 +9,60 @@ spell_lists_directory.mkdir(exist_ok = True)
 
 tags_dict = json.loads(tags_file.read_text(encoding = "utf-8"))
 
-classes_dict = {"artificer", "bard", "cleric", "druid", "paladin", "ranger", "sorcerer", "warlock", "wizard"}
+classes_dict = ["artificer", "bard", "cleric", "druid", "paladin", "ranger", "sorcerer", "warlock", "wizard"]
+
+
+master_list_gm = \
+"""<style>tab { padding-left:1em; }</style>
+
+<style>
+  .phb#p1:after{ display:none; } 
+</style>
+
+<style>
+  .phb{
+    width : 215.9mm;
+    height : 279.4mm;
+  }
+</style>
+
+<style>
+    .phb:after { 
+        content: "";
+    }
+</style>
+<style>
+/* Footer */
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : 0px;
+    left             : 0px;
+    height           : 55px;
+    width            : 100%;
+    z-index          : -10;
+    background-image : url('https://www.gmbinder.com/images/CWVCtad.png');
+    background-size  : cover;
+    }
+
+.phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : 0px;
+    left             : 0px;
+    height           : 55px;
+    width            : 100%;
+    z-index          : -10;
+    background-image : url('https://www.gmbinder.com/images/CWVCtad.png');
+    background-size  : cover;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+
+    } 
+</style>
+
+\pagebreak
+"""
 
 for class_name in classes_dict:
     class_spell_list_gmbinder = \
@@ -64,6 +117,12 @@ for class_name in classes_dict:
     output_file = spell_lists_directory / f"{class_name}.txt"
 
     output_file.write_text(class_spell_list_gmbinder, encoding = "utf-8")
+
+    master_list_gm += class_spell_list_gmbinder
+
+output_file = spell_lists_directory / "all_classes.txt"
+
+output_file.write_text(master_list_gm, encoding = "utf-8")
 
 # ### Artificer Spells
 # <div style='margin-top:50px'></div>
