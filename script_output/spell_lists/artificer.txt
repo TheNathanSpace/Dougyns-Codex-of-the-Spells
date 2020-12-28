@@ -1,0 +1,116 @@
+
+
+### Artificer Spells
+<div style='margin-top:50px'></div>
+<div class='spellList'>
+
+
+##### Cantrips (0 Level)
+- Acid Splash
+- Create Bonfire
+- Dancing Lights
+- Fire Bolt
+- Frostbite
+- Guidance
+- Light
+- Mage Hand
+- Magic Stone
+- Mending
+- Message
+- Poison Spray
+- Prestidigitation
+- Ray of Frost
+- Resistance
+- Shocking Grasp
+- Spare the Dying
+- Thorn Whip
+- Thunderclap
+
+##### 1st Level
+- Absorb Elements
+- Alarm
+- Catapult
+- Cure Wounds
+- Detect Magic
+- Disguise Self
+- Expeditious Retreat
+- Faerie Fire
+- False Life
+- Feather Fall
+- Grease
+- Identify
+- Jump
+- Longstrider
+- Purify Food and Drink
+- Sanctuary
+- Snare
+- Tasha’s Caustic Brew
+
+##### 2nd Level
+- Aid
+- Alter Self
+- Arcane Lock
+- Blur
+- Continual Flame
+- Darkvision
+- Enhance Ability
+- Enlarge/Reduce
+- Heat Metal
+- Invisibility
+- Lesser Restoration
+- Levitate
+- Magic Mouth
+- Magic Weapon
+- Protection from Poison
+- Pyrotechnics
+- Rope Trick
+- See Invisibility
+- Skywrite
+- Spider Climb
+- Web
+
+##### 3rd Level
+- Blink
+- Catnap
+- Create Food and Water
+- Dispel Magic
+- Elemental Weapon
+- Flame Arrows
+- Fly
+- Glyph of Warding
+- Haste
+- Intellect Fortress
+- Protection from Energy
+- Revivify
+- Tiny Servant
+- Water Breathing
+- Water Walk
+
+##### 4th Level
+- Arcane Eye
+- Elemental Bane
+- Fabricate
+- Freedom of Movement
+- Leomund’s Secret Chest
+- Mordenkainen’s Faithful Hound
+- Mordenkainen’s Private Sanctum
+- Otiluke’s Resilient Sphere
+- Stone Shape
+- Stoneskin
+- Summon Construct
+
+##### 5th Level
+- Animate Objects
+- Bigby’s Hand
+- Creation
+- Greater Restoration
+- Skill Empowerment
+- Transmute Rock
+- Wall of Stone
+</div>
+
+<br>
+<br>
+
+\pagebreak
+

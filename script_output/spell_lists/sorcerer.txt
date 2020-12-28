@@ -1,0 +1,228 @@
+
+
+### Sorcerer Spells
+<div style='margin-top:50px'></div>
+<div class='spellList'>
+
+
+##### Cantrips (0 Level)
+- Acid Splash
+- Blade Ward
+- Booming Blade
+- Chill Touch
+- Control Flames
+- Create Bonfire
+- Dancing Lights
+- Fire Bolt
+- Friends
+- Frostbite
+- Green-Flame Blade
+- Gust
+- Infestation
+- Light
+- Lightning Lure
+- Mage Hand
+- Mending
+- Message
+- Mind Sliver
+- Minor Illusion
+- Mold Earth
+- Poison Spray
+- Prestidigitation
+- Ray of Frost
+- Shape Water
+- Shocking Grasp
+- Sword Burst
+- Thunderclap
+- True Strike
+
+##### 1st Level
+- Absorb Elements
+- Burning Hands
+- Catapult
+- Chaos Bolt
+- Charm Person
+- Chromatic Orb
+- Color Spray
+- Comprehend Languages
+- Detect Magic
+- Disguise Self
+- Earth Tremor
+- Expeditious Retreat
+- False Life
+- Feather Fall
+- Fog Cloud
+- Ice Knife
+- Jump
+- Mage Armor
+- Magic Missile
+- Ray of Sickness
+- Shield
+- Silent Image
+- Sleep
+- Tasha’s Caustic Brew
+- Thunderwave
+- Witch Bolt
+
+##### 2nd Level
+- Aganazzar’s Scorcher
+- Alter Self
+- Blindness/Deafness
+- Blur
+- Cloud of Daggers
+- Crown of Madness
+- Darkness
+- Darkvision
+- Detect Thoughts
+- Dragon’s Breath
+- Dust Devil
+- Earthbind
+- Enhance Ability
+- Enlarge/Reduce
+- Gust of Wind
+- Hold Person
+- Invisibility
+- Knock
+- Levitate
+- Maximilian’s Earthen Grasp
+- Mind Spike
+- Mirror Image
+- Misty Step
+- Phantasmal Force
+- Pyrotechnics
+- Scorching Ray
+- See Invisibility
+- Shadow Blade
+- Shatter
+- Snilloc’s Snowball Swarm
+- Spider Climb
+- Suggestion
+- Tasha’s Mind Whip
+- Warding Wind
+- Web
+
+##### 3rd Level
+- Blink
+- Catnap
+- Clairvoyance
+- Counterspell
+- Daylight
+- Dispel Magic
+- Enemies Abound
+- Erupting Earth
+- Fear
+- Fireball
+- Flame Arrows
+- Fly
+- Gaseous Form
+- Haste
+- Hypnotic Pattern
+- Intellect Fortress
+- Lightning Bolt
+- Major Image
+- Melf’s Minute Meteors
+- Protection from Energy
+- Sleet Storm
+- Slow
+- Stinking Cloud
+- Thunder Step
+- Tidal Wave
+- Tongues
+- Wall of Water
+- Water Breathing
+- Water Walk
+
+##### 4th Level
+- Banishment
+- Blight
+- Charm Monster
+- Confusion
+- Dimension Door
+- Dominate Beast
+- Greater Invisibility
+- Ice Storm
+- Polymorph
+- Sickening Radiance
+- Stoneskin
+- Storm Sphere
+- Vitriolic Sphere
+- Wall of Fire
+- Watery Sphere
+
+##### 5th Level
+- Animate Objects
+- Cloudkill
+- Cone of Cold
+- Control Winds
+- Creation
+- Dominate Person
+- Enervation
+- Far Step
+- Hold Monster
+- Immolation
+- Insect Plague
+- Seeming
+- Skill Empowerment
+- Synaptic Static
+- Telekinesis
+- Teleportation Circle
+- Wall of Light
+- Wall of Stone
+
+##### 6th Level
+- Arcane Gate
+- Chain Lightning
+- Circle of Death
+- Disintegrate
+- Eyebite
+- Globe of Invulnerability
+- Investiture of Flame
+- Investiture of Ice
+- Investiture of Stone
+- Investiture of Wind
+- Mass Suggestion
+- Mental Prison
+- Move Earth
+- Scatter
+- Sunbeam
+- Tasha’s Otherworldly Guise
+- True Seeing
+
+##### 7th Level
+- Crown of Stars
+- Delayed Blast Fireball
+- Dream of the Blue Veil
+- Etherealness
+- Finger of Death
+- Fire Storm
+- Plane Shift
+- Power Word Pain
+- Prismatic Spray
+- Reverse Gravity
+- Teleport
+- Whirlwind
+
+##### 8th Level
+- Abi-Dalzim’s Horrid Wilting
+- Dominate Monster
+- Earthquake
+- Incendiary Cloud
+- Power Word Stun
+- Sunburst
+
+##### 9th Level
+- Blade of Disaster
+- Gate
+- Mass Polymorph
+- Meteor Swarm
+- Power Word Kill
+- Psychic Scream
+- Time Stop
+- Wish
+</div>
+
+<br>
+<br>
+
+\pagebreak
+

@@ -1,0 +1,1 @@
+This directory contains the outputs of all of the scripts I've written for this project. They should be pretty self-explanatory!

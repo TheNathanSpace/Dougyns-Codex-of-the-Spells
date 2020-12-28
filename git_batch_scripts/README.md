@@ -1,0 +1,1 @@
+This directory contains the scripts that were used to merge all of the new TCE spells from [this repo](https://github.com/Eikrem63/grimoire), where each spell had its own branch. You can find/download the result of this [from this repo](https://github.com/thekingelessar/grimoire/) (the `tasha-updated` branch).

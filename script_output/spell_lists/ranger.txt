@@ -1,0 +1,81 @@
+
+
+### Ranger Spells
+<div style='margin-top:50px'></div>
+<div class='spellList'>
+
+
+##### 1st Level
+- Absorb Elements
+- Alarm
+- Animal Friendship
+- Beast Bond
+- Cure Wounds
+- Detect Magic
+- Detect Poison and Disease
+- Ensnaring Strike
+- Fog Cloud
+- Goodberry
+- Hail of Thorns
+- Hunter’s Mark
+- Jump
+- Longstrider
+- Snare
+- Speak with Animals
+- Zephyr Strike
+
+##### 2nd Level
+- Animal Messenger
+- Barkskin
+- Beast Sense
+- Cordon Of Arrows
+- Darkvision
+- Find Traps
+- Healing Spirit
+- Lesser Restoration
+- Locate Animals or Plants
+- Locate Object
+- Pass Without Trace
+- Protection from Poison
+- Silence
+- Spike Growth
+- Summon Beast
+
+##### 3rd Level
+- Conjure Animals
+- Conjure Barrage
+- Daylight
+- Flame Arrows
+- Lightning Arrow
+- Nondetection
+- Plant Growth
+- Protection from Energy
+- Speak with Plants
+- Summon Fey
+- Water Breathing
+- Water Walk
+- Wind Wall
+
+##### 4th Level
+- Conjure Woodland Beings
+- Freedom of Movement
+- Grasping Vine
+- Guardian of Nature
+- Locate Creature
+- Stoneskin
+- Summon Elemental
+
+##### 5th Level
+- Commune with Nature
+- Conjure Volley
+- Steel Wind Strike
+- Swift Quiver
+- Tree Stride
+- Wrath of Nature
+</div>
+
+<br>
+<br>
+
+\pagebreak
+
