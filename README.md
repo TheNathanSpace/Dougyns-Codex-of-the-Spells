@@ -16,6 +16,8 @@ In which I combine my mediocre Python and Photoshop skills into something I'm tr
  10. Upload final PDF and cover design to printing service.
  11. Order prints of the finished book!
 
+![The planned cover for the book](https://github.com/TheKingElessar/Dougyns-Codex-of-the-Spells/blob/Renewed/Firespout%20Cover.png?raw=true)
+
 ### Historical Notes
 
 When I made the first version of this eight months ago, there were several significant problems, and they all stemmed from one thing: the page size. D&D sourcebooks are 8.25"x10.75", and GMBinder can't export a PDF in that size, so each page had to be a seperate image. The full PDF size was massive. It was pretty hard to find a printer to print in that size, too.
@@ -24,4 +26,3 @@ Overall, this letter-sized version will solve those problems, at the expense of 
 
 To see the old version, you can check out the old [master branch here](https://github.com/TheKingElessar/Dougyns-Codex-of-the-Spells/tree/master).
 
-![The planned cover for the book](Firespout Cover.png)
